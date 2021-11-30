@@ -8,7 +8,7 @@ title: Home
 
 *Celebrating software engineers who've found their calling outside of routine web development.*
 
-### By Oz Nova ([@oznova](https://twitter.com/oznova_) and [Charlie Harrington](https://charlieharrington.com) ([@whatrocks](https://twitter.com/whatrocks))
+### By Oz Nova ([@oznova](https://twitter.com/oznova_)) and [Charlie Harrington](https://charlieharrington.com) ([@whatrocks](https://twitter.com/whatrocks))
 
 ![Escaping Web logo](logo.jpg)
 
