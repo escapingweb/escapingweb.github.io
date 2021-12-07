@@ -4,9 +4,9 @@
         <description><![CDATA[escapingweb]]></description>
         <link>https://escapingweb.github.io/podcast.xml</link>
         <generator>Syte</generator>
-        <lastBuildDate>Tue, 07 Dec 2021 05:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 05:50:45 GMT</lastBuildDate>
         <atom:link href="/Users/ch/projects/escapingweb/escapingweb.github.io/docs/podcast.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Dec 2021 05:30:31 GMT</pubDate>
+        <pubDate>Tue, 07 Dec 2021 05:50:45 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <category><![CDATA[Technology]]></category>
@@ -22,7 +22,7 @@
         <itunes:category text="Technology">
         </itunes:category>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[6: Algorithmically Speaking with Elliott Jin of Triplebyte]]></title>
             <description><![CDATA[<p>Elliott Jin is the Interview Team Tech Lead at Triplebyte. You&#39;re gonna hear a lot about Project Euler in this one.</p>
 <blockquote>
 <p>Charlie and Oz explore Elliott&#39;s path down the various intellectual rabbit holes (mostly Project Euler) that led him to software engineering at Dropbox, teaching the Algorithms course at Bradfield, and now leading Triplebyte&#39;s Interview tech team. Elliott also reveals the correct way to read a textbook (of which Charlie hadn&#39;t the foggiest), and Oz and Elliott try to explain to Charlie how they motivate students in their classes through &quot;guided struggle.&quot;</p>
@@ -62,6 +62,7 @@
             <guid isPermaLink="true">https://escapingweb.github.io/episodes/6</guid>
             <category><![CDATA[Technology]]></category>
             <pubDate>Mon, 28 Oct 2019 00:00:00 GMT</pubDate>
+            <enclosure url="https://escapingweb.github.io/audio/006_algorithmically_speaking_with_elliott_jin_of_triplebyte.mp3" length="92236297" type="audio/mpeg"/>
             <itunes:author>Oz Nova &amp; Charlie Harrington</itunes:author>
             <itunes:title>6: Algorithmically Speaking with Elliott Jin of Triplebyte</itunes:title>
             <itunes:duration>4608</itunes:duration>
@@ -72,7 +73,7 @@
             <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[5: Learning Your Stripes with Grant Wu of Stripe]]></title>
             <description><![CDATA[<p>Grant Wu is a Software Engineer at Stripe on the Ruby Application Infrastructure team. He also hates scary movies, but still can’t stop himself from reading their IMDB synopses.</p>
 <blockquote>
 <p>Charlie and Oz dig into Grant’s study habits for self-guided learning (like building a toy kernel and toy compiler) — and how those low-level projects influenced his path to Stripe. The gang gets into it over bootcamps, baking bread, and learning to play music — all with the broader theme of exploring what it means to be creative. To top it off, we learn that Oz has a joint degree in math(s) and the (Australian) law?!</p>
@@ -102,6 +103,7 @@
             <guid isPermaLink="true">https://escapingweb.github.io/episodes/5</guid>
             <category><![CDATA[Technology]]></category>
             <pubDate>Wed, 18 Sep 2019 00:00:00 GMT</pubDate>
+            <enclosure url="https://escapingweb.github.io/audio/005_learning_your_stripes_with_grant_wu_of_stripe.mp3" length="108724886" type="audio/mpeg"/>
             <itunes:author>Oz Nova &amp; Charlie Harrington</itunes:author>
             <itunes:title>5: Learning Your Stripes with Grant Wu of Stripe</itunes:title>
             <itunes:duration>5432</itunes:duration>
@@ -112,7 +114,7 @@
             <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[4: A Graphic(s) Conversation with Lauren Budorick of Figma]]></title>
             <description><![CDATA[<p>Lauren Budorick is Graphics Software Engineer at Figma. She’s also read the 1989a .gif spec, yet still refuses to pronounce them as &quot;JIFs.&quot;</p>
 <blockquote>
 <p>Find out how Lauren went from bootcamp grad to Graphics Software Engineer, first at Mapbox and now at Figma, where she&#39;s building their prototyping rendering engine. Charlie and Oz dig into Lauren&#39;s tips for learning linear algebra, how to see everything in the world as a triangle, and navigating a company without managers. Charlie and Oz also each try to recount stories of &quot;achieving the impossible&quot;, and both painfully fail to remember the exact details of their anecdotes.</p>
@@ -144,6 +146,7 @@
             <guid isPermaLink="true">https://escapingweb.github.io/episodes/4</guid>
             <category><![CDATA[Technology]]></category>
             <pubDate>Thu, 05 Sep 2019 00:00:00 GMT</pubDate>
+            <enclosure url="https://escapingweb.github.io/audio/004_a_graphics_conversation_with_lauren_budorick_of_figma.mp3" length="67580927" type="audio/mpeg"/>
             <itunes:author>Oz Nova &amp; Charlie Harrington</itunes:author>
             <itunes:title>4: A Graphic(s) Conversation with Lauren Budorick of Figma</itunes:title>
             <itunes:duration>3375</itunes:duration>
@@ -154,7 +157,7 @@
             <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[3: Getting Time Serious with Richie Artoul of Uber]]></title>
             <description><![CDATA[<p>Richie Artoul is a software engineer on Uber&#39;s Observability infrastructure team. He also really likes distributed timeseries databases, like a lot.</p>
 <blockquote>
 <p>Find out how Richie Artoul went from bootcamp grad to infrastructure engineer at Uber, where he&#39;s now building their open source metrics platform M3 and their open source distributed timeseries database M3DB. Charlie and Oz dive into Richie&#39;s tips for side projects, reading programming textbooks, finding mentors at work, and navigating large engineering orgs like Uber. We also learn that Richie recently took up Jiu-Jitsu (just like Oz) - and now Charlie&#39;s hoping for a Vader / Obi Wan style &quot;roll&quot; in their future.</p>
@@ -179,6 +182,7 @@
             <guid isPermaLink="true">https://escapingweb.github.io/episodes/3</guid>
             <category><![CDATA[Technology]]></category>
             <pubDate>Wed, 24 Jul 2019 00:00:00 GMT</pubDate>
+            <enclosure url="https://escapingweb.github.io/audio/003_getting_time_serious_with_richie_artoul_of_uber.mp3" length="76468837" type="audio/mpeg"/>
             <itunes:author>Oz Nova &amp; Charlie Harrington</itunes:author>
             <itunes:title>3: Getting Time Serious with Richie Artoul of Uber</itunes:title>
             <itunes:duration>3820</itunes:duration>
@@ -189,7 +193,7 @@
             <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[2: Epic Slacking with Roo Harrigan of Slack]]></title>
             <description><![CDATA[<p>Roo Harrigan is the Strategic Engineering Projects Lead at Slack. She’s also the self-proclaimed Mentor Queen.</p>
 <blockquote>
 <p>Find out how Roo Harrigan went from an all-around generalist (product manager, project manager, sales demo&#39;er, customer support agent) to a software engineer on the platform team at Slack, and now the Strategic Engineering Projects Lead reporting to Slack&#39;s CTO. Charlie and Oz dig into about Roo&#39;s tips for finding mentors, achieving flow state, and onboarding engineers. We also learn that Oz has never worked in the food services industry. Oh, and they remember to introduce themselves and Roo at the beginning. Progress!</p>
@@ -212,6 +216,7 @@
             <guid isPermaLink="true">https://escapingweb.github.io/episodes/2</guid>
             <category><![CDATA[Technology]]></category>
             <pubDate>Thu, 27 Jun 2019 00:00:00 GMT</pubDate>
+            <enclosure url="https://escapingweb.github.io/audio/002_epic_slacking_with_roo_harrigan_of_slack.mp3" length="99215166" type="audio/mpeg"/>
             <itunes:author>Oz Nova &amp; Charlie Harrington</itunes:author>
             <itunes:title>2: Epic Slacking with Roo Harrigan of Slack</itunes:title>
             <itunes:duration>3773</itunes:duration>
@@ -222,7 +227,7 @@
             <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[1: A Quantum of Sad Things Happening To Felix Tripier of IonQ]]></title>
             <description><![CDATA[<p>Felix Tripier is a software engineer at a quantum computing company. He&#39;s also eating cold lasagna out of a coffee mug.</p>
 <blockquote>
 <p>Find out how Felix Tripier went from high-school and college dropout (watch out Silicon Valley, he&#39;s a double-dropout) to working as web developer at several Bay Area startups to presenting his open-source research at a quantum computing conference, leading to his current gig as a software engineer at IonQ, a quantum computing company. Charlie and Oz dig into Felix&#39;s study habits and learning goals, briefly dip into theoretical computing topics before coming up for air, and altogether forget to introduce themselves, Felix, or the podcast itself.</p>
@@ -247,6 +252,7 @@
             <guid isPermaLink="true">https://escapingweb.github.io/episodes/1</guid>
             <category><![CDATA[Technology]]></category>
             <pubDate>Wed, 19 Jun 2019 00:00:00 GMT</pubDate>
+            <enclosure url="https://escapingweb.github.io/audio/001_a_quantum_of_sad_things_happening_to_felix_tripier_of_ionq.mp3" length="0" type="audio/mpeg"/>
             <itunes:author>Oz Nova &amp; Charlie Harrington</itunes:author>
             <itunes:title>1: A Quantum of Sad Things Happening To Felix Tripier of IonQ</itunes:title>
             <itunes:duration>4960</itunes:duration>

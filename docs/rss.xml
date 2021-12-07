@@ -4,9 +4,9 @@
         <description><![CDATA[escapingweb]]></description>
         <link>https://escapingweb.github.io/rss.xml</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Dec 2021 05:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 05:50:45 GMT</lastBuildDate>
         <atom:link href="/Users/ch/projects/escapingweb/escapingweb.github.io/docs/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Dec 2021 05:30:31 GMT</pubDate>
+        <pubDate>Tue, 07 Dec 2021 05:50:45 GMT</pubDate>
         <ttl>60</ttl>
         <item>
             <title><![CDATA[6: Algorithmically Speaking with Elliott Jin of Triplebyte]]></title>
