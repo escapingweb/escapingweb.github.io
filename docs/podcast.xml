@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title><![CDATA[escapingweb]]></title>
-        <description><![CDATA[escapingweb]]></description>
+        <description><![CDATA[Celebrating software engineers who've found their calling outside of routine web development.]]></description>
         <link>https://escapingweb.github.io/podcast.xml</link>
         <generator>Syte</generator>
-        <lastBuildDate>Tue, 07 Dec 2021 05:52:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 05:58:58 GMT</lastBuildDate>
         <atom:link href="/Users/ch/projects/escapingweb/escapingweb.github.io/docs/podcast.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Dec 2021 05:52:02 GMT</pubDate>
+        <pubDate>Tue, 07 Dec 2021 05:58:58 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <category><![CDATA[Technology]]></category>
@@ -69,7 +69,7 @@
             <itunes:summary>Elliott Jin is the Interview Team Tech Lead at Triplebyte. You&apos;re gonna hear a lot about Project Euler in this one.</itunes:summary>
             <itunes:subtitle>Elliott Jin is the Interview Team Tech Lead at Triplebyte. You&apos;re gonna hear a lot about Project Euler in this one.</itunes:subtitle>
             <itunes:order>6</itunes:order>
-            <itunes:explicit></itunes:explicit>
+            <itunes:explicit>no</itunes:explicit>
             <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
         </item>
         <item>
@@ -110,7 +110,7 @@
             <itunes:summary>Grant Wu is a Software Engineer at Stripe on the Ruby Application Infrastructure team. He also hates scary movies, but still can’t stop himself from reading their IMDB synopses.</itunes:summary>
             <itunes:subtitle>Grant Wu is a Software Engineer at Stripe on the Ruby Application Infrastructure team. He also hates scary movies, but still can’t stop himself from reading their IMDB synopses.</itunes:subtitle>
             <itunes:order>5</itunes:order>
-            <itunes:explicit></itunes:explicit>
+            <itunes:explicit>yes</itunes:explicit>
             <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
         </item>
         <item>
@@ -153,7 +153,7 @@
             <itunes:summary>Lauren Budorick is Graphics Software Engineer at Figma. She’s also read the 1989a .gif spec, yet still refuses to pronounce them as &quot;JIFs.&quot;</itunes:summary>
             <itunes:subtitle>Lauren Budorick is Graphics Software Engineer at Figma. She’s also read the 1989a .gif spec, yet still refuses to pronounce them as &quot;JIFs.&quot;</itunes:subtitle>
             <itunes:order>4</itunes:order>
-            <itunes:explicit></itunes:explicit>
+            <itunes:explicit>yes</itunes:explicit>
             <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
         </item>
         <item>
@@ -189,7 +189,7 @@
             <itunes:summary>Richie Artoul is a software engineer on Uber&apos;s Observability infrastructure team. He also really likes distributed timeseries databases, like a lot.</itunes:summary>
             <itunes:subtitle>Richie Artoul is a software engineer on Uber&apos;s Observability infrastructure team. He also really likes distributed timeseries databases, like a lot.</itunes:subtitle>
             <itunes:order>3</itunes:order>
-            <itunes:explicit></itunes:explicit>
+            <itunes:explicit>yes</itunes:explicit>
             <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
         </item>
         <item>
@@ -223,7 +223,7 @@
             <itunes:summary>Roo Harrigan is the Strategic Engineering Projects Lead at Slack. She’s also the self-proclaimed Mentor Queen.</itunes:summary>
             <itunes:subtitle>Roo Harrigan is the Strategic Engineering Projects Lead at Slack. She’s also the self-proclaimed Mentor Queen.</itunes:subtitle>
             <itunes:order>2</itunes:order>
-            <itunes:explicit></itunes:explicit>
+            <itunes:explicit>yes</itunes:explicit>
             <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
         </item>
         <item>
@@ -259,7 +259,7 @@
             <itunes:summary>Felix Tripier is a software engineer at a quantum computing company. He&apos;s also eating cold lasagna out of a coffee mug.</itunes:summary>
             <itunes:subtitle>Felix Tripier is a software engineer at a quantum computing company. He&apos;s also eating cold lasagna out of a coffee mug.</itunes:subtitle>
             <itunes:order>1</itunes:order>
-            <itunes:explicit></itunes:explicit>
+            <itunes:explicit>yes</itunes:explicit>
             <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
         </item>
     </channel>
