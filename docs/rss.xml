@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[escapingweb]]></title>
-        <description><![CDATA[escapingweb]]></description>
+        <title><![CDATA[Escaping Web]]></title>
+        <description><![CDATA[Escaping Web]]></description>
         <link>https://escapingweb.github.io</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Dec 2021 06:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 15:57:06 GMT</lastBuildDate>
         <atom:link href="https://escapingweb.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Dec 2021 06:29:26 GMT</pubDate>
+        <pubDate>Tue, 07 Dec 2021 15:57:06 GMT</pubDate>
         <ttl>60</ttl>
         <item>
             <title><![CDATA[6: Algorithmically Speaking with Elliott Jin of Triplebyte]]></title>
