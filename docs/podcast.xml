@@ -2,11 +2,11 @@
     <channel>
         <title><![CDATA[escapingweb]]></title>
         <description><![CDATA[Celebrating software engineers who've found their calling outside of routine web development.]]></description>
-        <link>https://escapingweb.github.io/podcast.xml</link>
+        <link>https://escapingweb.github.io</link>
         <generator>Syte</generator>
-        <lastBuildDate>Tue, 07 Dec 2021 06:06:00 GMT</lastBuildDate>
-        <atom:link href="/Users/ch/projects/escapingweb/escapingweb.github.io/docs/podcast.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Dec 2021 06:06:00 GMT</pubDate>
+        <lastBuildDate>Tue, 07 Dec 2021 06:21:44 GMT</lastBuildDate>
+        <atom:link href="https://escapingweb.github.io/podcast.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 07 Dec 2021 06:21:44 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <category><![CDATA[Technology]]></category>
