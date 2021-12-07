@@ -1,3 +1,11 @@
 layout: app
 title: escapingweb
 base_url: https://escapingweb.github.io
+podcast_category: Technology
+podcast_language: en-us
+podcast_subtitle: Celebrating software engineers who've found their calling outside of routine web development.
+podcast_author: Oz Nova & Charlie Harrington
+podcast_summary: Celebrating software engineers who've found their calling outside of routine web development.
+podcast_explicit: 'no'
+podcast_email: escapingweb@whatrocks.org
+podcast_img_url: https://escapingweb.github.io/rss/logo.jpg
