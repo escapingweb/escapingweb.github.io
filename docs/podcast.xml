@@ -4,9 +4,9 @@
         <description><![CDATA[Celebrating software engineers who've found their calling outside of routine web development.]]></description>
         <link>https://escapingweb.github.io</link>
         <generator>Syte</generator>
-        <lastBuildDate>Tue, 07 Dec 2021 06:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 06:29:26 GMT</lastBuildDate>
         <atom:link href="https://escapingweb.github.io/podcast.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Dec 2021 06:21:44 GMT</pubDate>
+        <pubDate>Tue, 07 Dec 2021 06:29:26 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <category><![CDATA[Technology]]></category>
@@ -18,7 +18,7 @@
             <itunes:name>Oz Nova &amp; Charlie Harrington</itunes:name>
             <itunes:email>escapingweb@whatrocks.org</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+        <itunes:image href="https://escapingweb.github.io/logo.jpg"/>
         <itunes:category text="Technology">
         </itunes:category>
         <item>
@@ -69,7 +69,7 @@
             <itunes:summary>Elliott Jin is the Interview Team Tech Lead at Triplebyte. You&apos;re gonna hear a lot about Project Euler in this one.</itunes:summary>
             <itunes:subtitle>Elliott Jin is the Interview Team Tech Lead at Triplebyte. You&apos;re gonna hear a lot about Project Euler in this one.</itunes:subtitle>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+            <itunes:image href="https://escapingweb.github.io/logo.jpg"/>
         </item>
         <item>
             <title><![CDATA[5: Learning Your Stripes with Grant Wu of Stripe]]></title>
@@ -109,7 +109,7 @@
             <itunes:summary>Grant Wu is a Software Engineer at Stripe on the Ruby Application Infrastructure team. He also hates scary movies, but still can’t stop himself from reading their IMDB synopses.</itunes:summary>
             <itunes:subtitle>Grant Wu is a Software Engineer at Stripe on the Ruby Application Infrastructure team. He also hates scary movies, but still can’t stop himself from reading their IMDB synopses.</itunes:subtitle>
             <itunes:explicit>yes</itunes:explicit>
-            <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+            <itunes:image href="https://escapingweb.github.io/logo.jpg"/>
         </item>
         <item>
             <title><![CDATA[4: A Graphic(s) Conversation with Lauren Budorick of Figma]]></title>
@@ -151,7 +151,7 @@
             <itunes:summary>Lauren Budorick is Graphics Software Engineer at Figma. She’s also read the 1989a .gif spec, yet still refuses to pronounce them as &quot;JIFs.&quot;</itunes:summary>
             <itunes:subtitle>Lauren Budorick is Graphics Software Engineer at Figma. She’s also read the 1989a .gif spec, yet still refuses to pronounce them as &quot;JIFs.&quot;</itunes:subtitle>
             <itunes:explicit>yes</itunes:explicit>
-            <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+            <itunes:image href="https://escapingweb.github.io/logo.jpg"/>
         </item>
         <item>
             <title><![CDATA[3: Getting Time Serious with Richie Artoul of Uber]]></title>
@@ -186,7 +186,7 @@
             <itunes:summary>Richie Artoul is a software engineer on Uber&apos;s Observability infrastructure team. He also really likes distributed timeseries databases, like a lot.</itunes:summary>
             <itunes:subtitle>Richie Artoul is a software engineer on Uber&apos;s Observability infrastructure team. He also really likes distributed timeseries databases, like a lot.</itunes:subtitle>
             <itunes:explicit>yes</itunes:explicit>
-            <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+            <itunes:image href="https://escapingweb.github.io/logo.jpg"/>
         </item>
         <item>
             <title><![CDATA[2: Epic Slacking with Roo Harrigan of Slack]]></title>
@@ -219,7 +219,7 @@
             <itunes:summary>Roo Harrigan is the Strategic Engineering Projects Lead at Slack. She’s also the self-proclaimed Mentor Queen.</itunes:summary>
             <itunes:subtitle>Roo Harrigan is the Strategic Engineering Projects Lead at Slack. She’s also the self-proclaimed Mentor Queen.</itunes:subtitle>
             <itunes:explicit>yes</itunes:explicit>
-            <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+            <itunes:image href="https://escapingweb.github.io/logo.jpg"/>
         </item>
         <item>
             <title><![CDATA[1: A Quantum of Sad Things Happening To Felix Tripier of IonQ]]></title>
@@ -254,7 +254,7 @@
             <itunes:summary>Felix Tripier is a software engineer at a quantum computing company. He&apos;s also eating cold lasagna out of a coffee mug.</itunes:summary>
             <itunes:subtitle>Felix Tripier is a software engineer at a quantum computing company. He&apos;s also eating cold lasagna out of a coffee mug.</itunes:subtitle>
             <itunes:explicit>yes</itunes:explicit>
-            <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+            <itunes:image href="https://escapingweb.github.io/logo.jpg"/>
         </item>
     </channel>
 </rss>
