@@ -4,9 +4,9 @@
         <description><![CDATA[escapingweb]]></description>
         <link>https://escapingweb.github.io/podcast.xml</link>
         <generator>Syte</generator>
-        <lastBuildDate>Tue, 07 Dec 2021 05:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 05:52:02 GMT</lastBuildDate>
         <atom:link href="/Users/ch/projects/escapingweb/escapingweb.github.io/docs/podcast.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Dec 2021 05:50:45 GMT</pubDate>
+        <pubDate>Tue, 07 Dec 2021 05:52:02 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <category><![CDATA[Technology]]></category>
@@ -252,7 +252,7 @@
             <guid isPermaLink="true">https://escapingweb.github.io/episodes/1</guid>
             <category><![CDATA[Technology]]></category>
             <pubDate>Wed, 19 Jun 2019 00:00:00 GMT</pubDate>
-            <enclosure url="https://escapingweb.github.io/audio/001_a_quantum_of_sad_things_happening_to_felix_tripier_of_ionq.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="https://escapingweb.github.io/audio/001_a_quantum_of_sad_things_happening_to_felix_tripier_of_ionq.mp3" length="99215166" type="audio/mpeg"/>
             <itunes:author>Oz Nova &amp; Charlie Harrington</itunes:author>
             <itunes:title>1: A Quantum of Sad Things Happening To Felix Tripier of IonQ</itunes:title>
             <itunes:duration>4960</itunes:duration>
