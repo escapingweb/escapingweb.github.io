@@ -4,9 +4,9 @@
         <description><![CDATA[Escaping Web]]></description>
         <link>https://escapingweb.github.io</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Dec 2021 15:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 16:52:28 GMT</lastBuildDate>
         <atom:link href="https://escapingweb.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Dec 2021 15:57:06 GMT</pubDate>
+        <pubDate>Thu, 14 Sep 2023 16:52:28 GMT</pubDate>
         <ttl>60</ttl>
         <item>
             <title><![CDATA[6: Algorithmically Speaking with Elliott Jin of Triplebyte]]></title>
@@ -43,8 +43,12 @@
 <li><a href="https://triplebyte.com/%22">Triplebyte</a></li>
 <li><a href="https://github.com/robot-dreams%22">Elliott Jin on GitHub</a></li>
 <li><a href="https://medium.com/@robot_dreams%22">Elliott Jin on Medium</a></li>
+<li><a href="https://twitter.com/whatrocks">Charlie Harrington on Twitter</a></li>
+<li><a href="https://twitter.com/oznova_">Oz Nova on Twitter</a></li>
+<li><a href="https://charlieharrington.com/">Charlie Harrington&#39;s website</a></li>
+<li><a href="https://ozwrites.com/">Oz Nova&#39;s website</a></li>
 </ul>
-]]></description>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zssIhcAABCA?si=8waMhDZlPLFbr_mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></description>
             <link>https://escapingweb.github.io/episodes/6</link>
             <guid isPermaLink="true">https://escapingweb.github.io/episodes/6</guid>
             <pubDate>Mon, 28 Oct 2019 00:00:00 GMT</pubDate>
@@ -74,8 +78,12 @@
 <li><a href="https://mitpress.mit.edu/sites/default/files/sicp/index.html">SICP</a></li>
 <li><a href="https://github.com/gw">Grant Wu on GitHub</a></li>
 <li><a href="https://www.linkedin.com/in/gwu01/">Grant Wu on LinkedIn</a></li>
+<li><a href="https://twitter.com/whatrocks">Charlie Harrington on Twitter</a></li>
+<li><a href="https://twitter.com/oznova_">Oz Nova on Twitter</a></li>
+<li><a href="https://charlieharrington.com/">Charlie Harrington&#39;s website</a></li>
+<li><a href="https://ozwrites.com/">Oz Nova&#39;s website</a></li>
 </ul>
-]]></description>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oBZO6d5WqcQ?si=G82hC0Cn46WmwW0f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></description>
             <link>https://escapingweb.github.io/episodes/5</link>
             <guid isPermaLink="true">https://escapingweb.github.io/episodes/5</guid>
             <pubDate>Wed, 18 Sep 2019 00:00:00 GMT</pubDate>
@@ -107,8 +115,12 @@
 <li><a href="https://hackbrightacademy.com/">Hackbright Academy</a></li>
 <li><a href="https://www.goodreads.com/book/show/222146.Masters_of_Doom">Masters of Doom</a></li>
 <li><a href="https://twitter.com/lbudorick">Lauren Budorick on Twitter</a></li>
+<li><a href="https://twitter.com/whatrocks">Charlie Harrington on Twitter</a></li>
+<li><a href="https://twitter.com/oznova_">Oz Nova on Twitter</a></li>
+<li><a href="https://charlieharrington.com/">Charlie Harrington&#39;s website</a></li>
+<li><a href="https://ozwrites.com/">Oz Nova&#39;s website</a></li>
 </ul>
-]]></description>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fQ8RTcGyMfo?si=dH_ylLleKgxIcpbS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></description>
             <link>https://escapingweb.github.io/episodes/4</link>
             <guid isPermaLink="true">https://escapingweb.github.io/episodes/4</guid>
             <pubDate>Thu, 05 Sep 2019 00:00:00 GMT</pubDate>
@@ -133,8 +145,12 @@
 <li><a href="https://www.foundationdb.org/">FoundationDB</a></li>
 <li><a href="https://jvns.ca/blog/brag-documents/">Write a brag document - Julia Evans</a></li>
 <li><a href="https://twitter.com/richardartoul">Richie Artoul on Twitter</a></li>
+<li><a href="https://twitter.com/whatrocks">Charlie Harrington on Twitter</a></li>
+<li><a href="https://twitter.com/oznova_">Oz Nova on Twitter</a></li>
+<li><a href="https://charlieharrington.com/">Charlie Harrington&#39;s website</a></li>
+<li><a href="https://ozwrites.com/">Oz Nova&#39;s website</a></li>
 </ul>
-]]></description>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fdhdu29Fsfc?si=6hWp5A4aU-5uS8Cq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></description>
             <link>https://escapingweb.github.io/episodes/3</link>
             <guid isPermaLink="true">https://escapingweb.github.io/episodes/3</guid>
             <pubDate>Wed, 24 Jul 2019 00:00:00 GMT</pubDate>
@@ -157,8 +173,12 @@
 <li><a href="https://get.slack.help/hc/en-us/articles/208423427-Set-a-reminder">Slack Reminders: Roo&#39;s first project at Slack</a></li>
 <li><a href="https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202">Flow: The Pyschology of Optimal Experience by Mihaly Csikszentmihalyi</a></li>
 <li><a href="https://twitter.com/roo_harrigan">Roo Harrigan on Twitter</a></li>
+<li><a href="https://twitter.com/whatrocks">Charlie Harrington on Twitter</a></li>
+<li><a href="https://twitter.com/oznova_">Oz Nova on Twitter</a></li>
+<li><a href="https://charlieharrington.com/">Charlie Harrington&#39;s website</a></li>
+<li><a href="https://ozwrites.com/">Oz Nova&#39;s website</a></li>
 </ul>
-]]></description>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0LTh3BF9jJI?si=6cWiJFwDuFBif8uL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></description>
             <link>https://escapingweb.github.io/episodes/2</link>
             <guid isPermaLink="true">https://escapingweb.github.io/episodes/2</guid>
             <pubDate>Thu, 27 Jun 2019 00:00:00 GMT</pubDate>
@@ -183,8 +203,12 @@
 </li>
 <li><a href="https://github.com/ftripier/Q-bug">Q-Bug: Felix&#39;s open source, web-based visual debugger for Quil quantum programs</a></li>
 <li><a href="https://twitter.com/FelixTripier%22">Felix Tripier on Twitter</a></li>
+<li><a href="https://twitter.com/whatrocks">Charlie Harrington on Twitter</a></li>
+<li><a href="https://twitter.com/oznova_">Oz Nova on Twitter</a></li>
+<li><a href="https://charlieharrington.com/">Charlie Harrington&#39;s website</a></li>
+<li><a href="https://ozwrites.com/">Oz Nova&#39;s website</a></li>
 </ul>
-]]></description>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1M2F8I7vkqs?si=iq6WE4FOz4oMbs7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></description>
             <link>https://escapingweb.github.io/episodes/1</link>
             <guid isPermaLink="true">https://escapingweb.github.io/episodes/1</guid>
             <pubDate>Wed, 19 Jun 2019 00:00:00 GMT</pubDate>
